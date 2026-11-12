@@ -1,0 +1,15 @@
+{
+  "name": "traxure",
+  "displayName": "Traxure",
+  "description": "Ask Traxure about your music: is every release live on the stores, what changed this week, a ready letter to your distributor, UPC/ISRC lookups and your smart links.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Traxure",
+    "email": "support@traxure.com"
+  },
+  "homepage": "https://traxure.com/connect/help",
+  "repository": "https://github.com/traxure/traxure-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["music", "releases", "streaming", "distribution", "smart-links", "upc", "isrc", "artists", "labels"],
+  "logo": "assets/logo.png"
+}
